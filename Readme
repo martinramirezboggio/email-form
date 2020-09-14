@@ -10,7 +10,11 @@ dotenv
 
 To use this form update your credentials in the .env file.
 
+npm install
+npm run start-app
+
 If the email is not sending after this: 
 
 login to your email account where you want to get all the enquiry mails, 
 go to your gmail settings and allow less secure apps to access Gmail.
+
